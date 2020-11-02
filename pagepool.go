@@ -1,4 +1,4 @@
-package pagepool
+package rodpagepool
 
 import (
 	"context"
